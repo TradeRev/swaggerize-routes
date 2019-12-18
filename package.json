@@ -24,7 +24,8 @@
     "core-util-is": "^1.0.1",
     "debuglog": "^1.0.1",
     "enjoi": "^1.0.0",
-    "swagger-schema-official": "^2.0.0-"
+    "swagger-schema-official": "^2.0.0-",
+    "uuid": "^3.3.2"
   },
   "devDependencies": {
     "tape": "^4.2.2",
